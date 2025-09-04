@@ -46,7 +46,4 @@ Open the Covid19Analysis.ipynb file in Jupyter Notebook or Google Colab
 Run the cells in the notebook sequentially to perform the analysis, visualization, and predictions.
 
 Contributing
-Feel free to contribute to this project. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License.
+Feel free to contribute to this project. If you find any issues or have suggestions for improvements.
